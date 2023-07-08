@@ -1,4 +1,8 @@
+.dp{
+    width: 170px;
+    clip-path: circle();
 
+}
 body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 18px;
@@ -17,12 +21,6 @@ body {
 #preload-04 { background: url(../img/constructive_bg_04.jpg) no-repeat -9999px -9999px; }
 
 ul { margin: 0; padding: 0; }
-
-.dp{
-    width: 170px;
-    clip-path: circle();
-
-}
 
 a, button { transition: all 0.4s ease; }
 button:focus { outline: none; }
