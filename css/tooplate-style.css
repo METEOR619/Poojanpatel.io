@@ -18,6 +18,12 @@ body {
 
 ul { margin: 0; padding: 0; }
 
+.dp{
+    width: 170px;
+    clip-path: circle();
+
+}
+
 a, button { transition: all 0.4s ease; }
 button:focus { outline: none; }
 a:focus {
